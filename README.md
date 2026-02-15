@@ -7,7 +7,7 @@ A Clojure library designed to isolate blocking of caller in a Java virtual threa
 Add the following dependency to your `project.clj`:
 
 ```clojure
-[org.clojars.jj/arminio "1.0.0-SNAPSHOT"]
+[org.clojars.jj/arminio "1.0.0"]
 ```
 
 ## Usage
