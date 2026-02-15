@@ -1,4 +1,4 @@
-(defproject org.clojars.jj/arminio "1.0.0"
+(defproject org.clojars.jj/arminio "1.0.1-SNAPSHOT"
   :description "An experimental Executor that uses virtual threads to isolate blocking operations, ensuring the underlying ExecutorService only handles non-blocking coordination while blocking code executes in virtual threads"
   :url "http://example.com/FIXME"
   :license {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
